@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Levi\source\repos\链队列\链队列\main.cpp(45,9): error C2664: “Status deQueue(LinkQueue *,char *)”: 无法将参数 1 从“LinkQueue”转换为“LinkQueue *”
+      C:\Users\Levi\source\repos\链队列\链队列\main.cpp(45,17):
+      没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+      C:\Users\Levi\source\repos\链队列\链队列\LinkQueue.h(29,8):
+      参见“deQueue”的声明
+      C:\Users\Levi\source\repos\链队列\链队列\main.cpp(45,9):
+      尝试匹配参数列表“(LinkQueue, char *)”时
+  
